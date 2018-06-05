@@ -6,3 +6,12 @@ Decision Tree
 ```
 python GenderClassifierDemo.py
 ```
+
+# Gender Classification Challenge
+SVM, Perceptron, KNeighbors
+
+## Usage
+
+```
+python GenderClassificationChallenge.py
+```
